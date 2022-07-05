@@ -9,7 +9,7 @@ def good_morning(name):
 
 def greet(func):
     print("Fonksiyon öncesi işlemler")
-    func("Mustafa")
+    func("Samet")
     print("Fonksiyon sonrası işlemler")
 
 greet(good_morning)
